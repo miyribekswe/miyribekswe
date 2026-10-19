@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Miyirbek</h1>
 
 <p align="center">
-  🚀 Frontend Developer | 💻 Html css Lover | 🎯 Always Learning
+  🚀 Frontend Developer | 💻 Html css,Javascript,python Lover | 🎯 Always Learning
 </p>
 
 <p align="center">
